@@ -59,11 +59,11 @@
 
 <br>
 <a>
-<img align="left" width="200px" src="https://cdns-images.dzcdn.net/images/cover/d23376c71e824906bf3fe1e1d4713dfa/500x500.jpg" style="max-width: 100%;">
+<img align="left" width="200px" src="https://github.com/SIXIVESS/SIXIVESS/assets/104096436/3ada5dc2-4f3f-42d3-b49f-bd1e1fa45388" style="max-width: 100%;">
 </a>
 <br>
 <pre>
-    » ATEEZ(에이티즈) - '미친 폼 (Crazy Form)' «
+    » ATEEZ(에이티즈) - 'WORK' «
   1:35 ━━━━━━━━━●───────────────────── 3:48
             ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
              
