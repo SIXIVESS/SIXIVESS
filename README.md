@@ -59,11 +59,11 @@
 
 <br>
 <a>
-<img align="left" width="200px" src="https://github.com/SIXIVESS/SIXIVESS/assets/104096436/3ada5dc2-4f3f-42d3-b49f-bd1e1fa45388" style="max-width: 100%;">
+<img align="left" width="200px" src="https://cdn2.albumoftheyear.org/375x/album/1111607-golden-hour-part2_050933.jpg" style="max-width: 100%;">
 </a>
 <br>
 <pre>
-    » ATEEZ(에이티즈) - 'WORK' «
+    » ATEEZ(에이티즈) - 'Ice On My Teeth' «
   1:35 ━━━━━━━━━●───────────────────── 3:48
             ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
              
